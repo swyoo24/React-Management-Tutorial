@@ -55,7 +55,7 @@ class App extends Component {
         <Table className={classes.table}>
           <TableHead>
             <TableRow>
-              <TableCell>번호1</TableCell>
+              <TableCell>번호</TableCell>
               <TableCell>이미지</TableCell>
               <TableCell>이름</TableCell>
               <TableCell>생년월일</TableCell>
